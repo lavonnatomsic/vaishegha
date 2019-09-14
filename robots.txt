@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zigeiriux.scalegenerator.com/sitemap.xml
